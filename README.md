@@ -3,7 +3,7 @@
 #### 例子
 
 ``` go 
-package driver
+package main
 
 import (
 	"context"

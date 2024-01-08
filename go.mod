@@ -1,4 +1,4 @@
-module github.com/kulisi/decade
+module github.com/objectzsp/decade
 
 go 1.21.2
 
